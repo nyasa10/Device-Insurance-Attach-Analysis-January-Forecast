@@ -37,7 +37,7 @@ This project analyzes device insurance attach percentage trends across 163 retai
 
 - Weighted trend-based forecasting
 
-_ Performance benchmarking
+- Performance benchmarking
 
 ## Key Insights
 
